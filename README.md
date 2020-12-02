@@ -1,2 +1,6 @@
-In this repo, I would try to learn the idea described in this [notebook](https://www.kaggle.com/kokitanisaka/moa-ensemble), 
-which won gold metal in Kaggle MoA Prediction competition, and reproduce the results.
+In this repo, I would try to follow the ideas described in the following notbooks
+ - [MoA Ensemble](https://www.kaggle.com/kokitanisaka/moa-ensemble)
+ - [MoA Prediction|Complete Walkthrough|EDA-->Ensemble](https://www.kaggle.com/kushal1506/moa-prediction-complete-walkthrough-eda-ensemble)
+ 
+and reproduce some of the results.
+
